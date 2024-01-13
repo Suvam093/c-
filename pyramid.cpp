@@ -31,7 +31,7 @@ int main()
     //             cout<<" ";                     
     //             k++;
     //         }
-    //         else cout<<"*";
+    //         else cout<<"*";5
     //     }
     //     cout<<endl;
     // }
@@ -41,6 +41,13 @@ int main()
         // **   **
         // *     *
 
+    if(~0==1){
+        cout<<"yes";
+
+    }
+    else{
+        cout<<"no";
+    }
 
 
     return 0;

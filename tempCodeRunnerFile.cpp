@@ -1,14 +1,9 @@
- i<n; i++){
-        int k=0;
-        for(int j=0; j<2*n-1; j++){
-            if(j<n-i-1){
-                cout<<" ";
-            }
-            else if(k<2*i+1){
-                cout<<"*";
-                k++;
-            }
-            else cout<<" ";
-        }
-        cout<<endl;
-    }
+for(int i=0; i<n; i++){
+    //     if(arr[i]>0){
+    //         swap(arr[j],arr[i]);
+    //         j=j+2;
+    //     }
+    // }
+    // for(int a=0; a<n; a++){
+    //     cout<<arr[a]<<" ";
+    // }
